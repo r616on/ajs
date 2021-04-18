@@ -1,7 +1,7 @@
 {
   "name": "@r616on/ajs",
   "version": "1.0.0",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
